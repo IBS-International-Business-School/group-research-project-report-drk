@@ -60,6 +60,9 @@ Respondent profiles we get:
 
 In order to be accurate and more reliable in the analysis process, standard data handling methods were used and applied on the responses of the survey. It was checked that all the entries in the dataset were complete, consistent and ina a format that would be nalyzed automatically. Simple assessments were conducted in order to determine the presence of any repeated answers, lack of answers, and demographical labels anomalies. Variable names (example.. Q_Represent_Leadership, Q_Bias_Reporting) were standardised and made easier to read, as well as compatible with Python. Every step of the analysis was recorded to enhance transparency and reproducibility when working in the group.
 
+---
+
+### Results & Data Analysis
 
 
 4.  Results
