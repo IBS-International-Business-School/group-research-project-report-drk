@@ -1,10 +1,9 @@
 # Group Research Project Report
 
 ## Team Members:
-1. ...
-2. ...
-3. ... 
-4. ... 
+1. Koussay Hazami
+2. Churi Divyank Ramakant
+3. Donda Raj
 
 ## Declaration
 [ChatGPT 5.0] was used to [brainstorm themes and structure] for this group research project report on [topic]. Prompt: '...' No AI-generated text is included in the final submission. Accessed: [Date]. Available at: https://chat.openai.com/.
