@@ -182,11 +182,68 @@ Table-4:Segmentation by Disability Status
 5.  Discussion
 ... 
 
-6. Recommendations
-... 
+## 6. Recommendations
 
-7. Reflection on Team Process
-... 
+### Priority 1 — Strengthen Inclusive Leadership  
+Mandatory training on inclusive decision-making  
+Leadership performance KPIs tied to DEI metrics  
+Transparent criteria for promotion and talent pipelines  
+
+### Priority 2 — Improve Psychological Safety Mechanisms  
+Train managers in open dialogue and constructive feedback  
+Introduce anonymous feedback channels  
+Encourage speak-up culture through regular forums  
+
+### Priority 3 — Build Trust in Bias Reporting Systems  
+Communicate processes clearly and transparently  
+Provide case examples of resolved issues  
+Protect confidentiality rigorously  
+
+### Priority 4 — Support Underrepresented and Disabled Employees  
+Targeted mentoring programmes  
+Accessibility audits  
+Employee Resource Groups (ERGs) for identity-based communities  
+Clear accommodation pathways  
+
+### Priority 5 — Enhance Visibility of DEI Initiatives  
+Regular progress updates  
+Success stories and role models  
+DEI dashboards accessible to employees  
+
+These interventions align with global best practices and directly target the gaps observed in the data.
+
+## 7. Reflection on Team Process (Agile + GitHub)
+
+Our team implemented several Agile practices as required in the assignment brief:
+
+### Sprint Planning  
+We conducted an initial sprint planning meeting to define milestones:  
+Survey design  
+Data collection  
+Python analysis  
+Drafting report sections  
+Final integration and review  
+
+### Daily/Regular Stand-Ups  
+Short check-ins were held every 2–3 days to:  
+Review progress  
+Discuss blockers  
+Reassign tasks if needed  
+
+### GitHub Collaboration  
+We used branches for separate tasks (analysis, visuals, writing).  
+Pull requests ensured peer review of all contributions.  
+Issues were used to track tasks (e.g., “Fix visualisation labels”, “Add segmentation table”).  
+This aligns with the criteria for effective GitHub use (page 2 of assignment brief).  
+
+### Retrospective  
+At the end of the project, we held a retrospective to evaluate:  
+What worked: clear division of labour, steady progress  
+What could improve: earlier testing of visualisations, more consistent documentation  
+What to keep: regular stand-ups, GitHub branching model  
+
+Overall, teamwork was balanced, communicative, and adaptive.
+
 
 8. References and Appendices
 ... 
