@@ -180,14 +180,14 @@ Table-4:Segmentation by Disability Status
 
 ---
 
-### 5.7 Correlation Analysis
+### 4.8 Correlation Analysis
 
 Correlation between Psychological Safety and Bias Reporting: 0.78
 
 **Insight:** The strong positive correlation (R > 0.6) suggests these two issues are fundamentally linked.Employees who feel psychologically safe are far more likely to trust the reporting process.You cannot fix one without fixing the other.
 
 
-
+---
 
 5.  Discussion
 ... 
