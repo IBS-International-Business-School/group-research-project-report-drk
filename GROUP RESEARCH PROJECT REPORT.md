@@ -156,7 +156,7 @@ Table-3:IDENTITY EQUITY GAP
 
 ---
 
-### 5.6 DEI Differences by Disability Status
+### 4.7 DEI Differences by Disability Status
 
 #### DEI Scores by Disability Status**
 ![Disability status](images/Disability_Status.png)
@@ -178,71 +178,84 @@ Table-4:Segmentation by Disability Status
 - Employees identifying with a disability score 0.91 points lower on their overall DEI experience than their peers.
 - **Systemic Failure:** This gap is statistically significant (p-value = 0.0241).
 
+---
+
+### 5.7 Correlation Analysis
+
+Correlation between Psychological Safety and Bias Reporting: 0.78
+
+**Insight:** The strong positive correlation (R > 0.6) suggests these two issues are fundamentally linked.Employees who feel psychologically safe are far more likely to trust the reporting process.You cannot fix one without fixing the other.
+
+
+
 
 5.  Discussion
 ... 
 
+---
+
 ## 6. Recommendations
 
-### Priority 1 - Strengthen Inclusive Leadership 1.  
-We certainly need mandatory and inclusive training on inclusive decision-making so that all our voices count.  
-Leadership performance KPIs should be linked at the DEI metrics to keep the accountability real.  
-Transparency is Key Clear criteria on promotion and talent pipeline will help in leveling the playing field.  
+### Priority 1 — Strengthen Inclusive Leadership  
+Mandatory training on inclusive decision-making  
+Leadership performance KPIs tied to DEI metrics  
+Transparent criteria for promotion and talent pipelines  
 
-### Priority 2 - Enhance the Psychological Safety Mechanisms  
-Training for managers about having open dialogue and constructive feedback  
-Let's add some anonymous trash can channels of feedback - people will be more comfortable sharing honest-thoughts.  
-Continuing to have regular forums can facilitate a culture of speak up in order to keep those ideas flowing.  
+### Priority 2 — Improve Psychological Safety Mechanisms  
+Train managers in open dialogue and constructive feedback  
+Introduce anonymous feedback channels  
+Encourage speak-up culture through regular forums  
 
-### Priority 3 - Try to Establish Trust around Bias Reporting Systems  
-We'll be very clear and open about the reporting process, so that nobody is lost.  
-Case example of resolved issues can show how the system really works.  
-Rigorous confidentiality protection is non - negotiable; people need to be able to trust the process.  
+### Priority 3 — Build Trust in Bias Reporting Systems  
+Communicate processes clearly and transparently  
+Provide case examples of resolved issues  
+Protect confidentiality rigorously  
 
-### Priority 4 - Foster Under-Represented and Disabled Employees  
-Targeted mentoring programmes have be focused on the special needs of these groups.  
-Barriers can be identified and addressed for fixing - regular accessibility audits.  
-Employee Resource Groups (ERGs) for identity based communities provide connecting spaces.  
-We also need to have clear pathways for accommodation, for getting accommodation resolved quickly.  
+### Priority 4 — Support Underrepresented and Disabled Employees  
+Targeted mentoring programmes  
+Accessibility audits  
+Employee Resource Groups (ERGs) for identity-based communities  
+Clear accommodation pathways  
 
-### Priority 5 - Increase Visibility of DEI Initiatives  
-Regular progress updates keep everyone in the loop; consistency is key.  
-Sharing success stories and role models provides inspiration to the cohort in general.  
-DeI dashboarding (that is easily accessible) will allow students and staff to understand where we are.  
+### Priority 5 — Enhance Visibility of DEI Initiatives  
+Regular progress updates  
+Success stories and role models  
+DEI dashboards accessible to employees  
 
-For this reason, these interventions align with global best practices and address specifically the gaps that we identified in the data.  
+These interventions align with global best practices and directly target the gaps observed in the data.
 
-## 7. Team Process (Agile and using Github) Reflection:
+## 7. Reflection on Team Process (Agile + GitHub)
 
-We came at the project with a very Agile mindset as specified within the assignment brief:  
+Our team implemented several Agile practices as required in the assignment brief:
 
 ### Sprint Planning  
-My-teammate(s) and I started off with an initial sprint planning session in order to describe precise milestones:  
-- Survey design  
-- Data collection  
-- Python analysis  
-- Drafting report sections  
-- Overall final integration/review  
+We conducted an initial sprint planning meeting to define milestones:  
+Survey design  
+Data collection  
+Python analysis  
+Drafting report sections  
+Final integration and review  
 
-### Daily/Regular Stand‑Ups  
-We did check-ins every two to three days quick to make sure that the momentum was kept up:  
-- Review progress  
-- Discuss blockers  
-- Re-assignment of tasks if things got stuck  
+### Daily/Regular Stand-Ups  
+Short check-ins were held every 2–3 days to:  
+Review progress  
+Discuss blockers  
+Reassign tasks if needed  
 
 ### GitHub Collaboration  
-For each task we had created separate branches (analysis, visuals, writing).  
-Pull requests ensured that any contribution was peer-reviewed.  
-Issues tracked all things we needed to do such as "Fix visualisation labels" or "Add segmentation table".  
-Our set-up fulfils the GitHub use criteria from page two of the brief.  
+We used branches for separate tasks (analysis, visuals, writing).  
+Pull requests ensured peer review of all contributions.  
+Issues were used to track tasks (e.g., “Fix visualisation labels”, “Add segmentation table”).  
+This aligns with the criteria for effective GitHub use (page 2 of assignment brief).  
 
 ### Retrospective  
-At the end of the project we sat down and took a look back to evaluate:  
-What worked: to have a clear division of labour and progress steadily  
-What might improve: Initial testing of visualisations /Consistent documentation  
-What to keep Regular stand ups, branching model  
+At the end of the project, we held a retrospective to evaluate:  
+What worked: clear division of labour, steady progress  
+What could improve: earlier testing of visualisations, more consistent documentation  
+What to keep: regular stand-ups, GitHub branching model  
 
-Overall, the team work was balanced, communicative and adaptive - all of which is the kind of environment in which university students are able to grow together.
+Overall, teamwork was balanced, communicative, and adaptive.
+
 
 8. References and Appendices
 ... 
