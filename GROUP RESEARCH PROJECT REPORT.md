@@ -81,7 +81,7 @@ To carry out the analysis section, we primarily worked with Python, in particula
 
 These distributions bring out heterogeneity that is necessary in segmentation analysis.
 
-#### **Figure 1. Demographic Profiles** 
+#### Demographic Profiles** 
 ![Demographic Profiles](images/Demographic_Profile.png)
 Figure 1: Demographic Profiles of respondants (N=60)
 
@@ -95,6 +95,8 @@ We did Descriptive Statistics-Test to comapare scores of dirrent dimentions.
 - Inclusive Leadership score --3.39 is also higher.
 - The true overall risk is Representation,because the score is the lowest 3.15
 
+Table 1. Overall DEI Domain Scores
+
 |    **Domain**        |**Mean**|**SD**|**Min**|**Max**|
 | -------------------- | ------ | ---- | ----- | ----- |
 | Representation       | 3.15   | 1.17 |   1   |   5   |
@@ -106,6 +108,77 @@ We did Descriptive Statistics-Test to comapare scores of dirrent dimentions.
 
 
 ---
+
+### 4.4 DEI Differences Across Employment Levels  
+
+**The Equity Gap Insight:**
+- The largest disparity is a 1.01-point gap in Inclusive Leadership perception between staff and executives.
+- Executives score themselves and their environment lowest (2.74 in Leadership).
+- Staff (ICs) are surprisingly the most positive group.
+
+#### DEI Scores by Employment Level**
+![Employment Level](images/Employment_Level.png)
+Figure 2:DEI_Perception_by_Employment_Level
+
+---
+
+### 4.5 Strongest and Weakest Perceived DEI Items 
+
+Table-2:Highest Risk/Streangth Area 
+
+|                         Item               | Mean |
+|--------------------------------------------|------|
+| **Lowest-scoring:** Diverse leadership rep.| 2.77 |
+| **Highest-scoring:** Manager accessibility | 3.56 |
+
+**Insights:**Employees feel their managers are approachable, but do not see sufficient diversity in leadership roles.
+
+---
+
+### 4.6 Majority vs Underrepresented Groups (URG)
+
+#### DEI Scores: Majority vs URG**
+![URG Comparison](images/URG_group.png)
+Figure 3:DEI_Perception_by_Majority vs Underrepresented Groups
+
+
+Table-3:IDENTITY EQUITY GAP 
+
+|    Domains        | Majority | URG |
+|------------------ |----------|------|
+| Representation    |   3.11   | 3.16 |
+| Psych. Safety     |   2.97   | 3.29 |
+| Inclu. Leadership |   2.98   | 3.56 |
+| Bias Reporting    |   3.16   | 3.49 |
+| Visibility        |   3.04   | 3.36 |
+
+**Insights**: URG respondents consistently score Higher across all domains.
+
+---
+
+### 5.6 DEI Differences by Disability Status
+
+#### DEI Scores by Disability Status**
+![Disability status](images/Disability_Status.png)
+Figure 3:DEI Perception by Disability status
+
+
+Table-4:Segmentation by Disability Status
+
+|     Domain       | No Disability | Disability | Prefer Not to Say |
+|------------------|---------------|------------|-------------------|
+| Representation   |     3.23      |     2.83   |      3.46         |
+| Psych. Safety    |     3.32      |     2.50   |      3.87         |
+| Inclu.Leadership |     3.56      |     2.70   |      3.87         |
+| Bias Reporting   |     3.35      |     2.53   |      3.46         |
+| Visibility       |     3.38      |     2.87   |      3.87         |
+
+
+**The Equity Gap Insight:**
+- Employees identifying with a disability score 0.91 points lower on their overall DEI experience than their peers.
+- **Systemic Failure:** This gap is statistically significant (p-value = 0.0241).
+
+
 5.  Discussion
 ... 
 
