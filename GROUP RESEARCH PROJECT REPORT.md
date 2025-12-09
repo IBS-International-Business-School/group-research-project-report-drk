@@ -72,12 +72,12 @@ To carry out the analysis section, we primarily worked with Python, in particula
 
 ### 4.2 Demographic Overview
 
- We firstly analyzed demographic profiles :
+The analysis of perceptions about DEI was conducted before it made sense to understand who exactly participated in the survey.It was also a representative sample of employees of diverse age groups, gender, and tenure.
 
-**Age:** 43% aged between 25-34 years. 
-**Gender:** 26 female, 21 male, 3 non-binary/gender-diverse, 10 prefer not to say.
-**Tenture:** Largly 1-3 years
-**Level of employment:** 48% Individual contributor
+**Age:** A big proportion (43%) was 25-34 years, which implies that we have many professionals in their early career in our sample.
+**Gender:** The majority of the respondents were females (26), and then there are males (21). Very few identified as non-binary or did not want to indicate.
+**Tenture:** A large percentage of the respondents had a tenure of 1-3 years in the organisation.
+**Level of employment:** Approximately 48% of the sample comprised individual contributors.This implies that the perspective of non-managers is highly represented.
 
 These distributions bring out heterogeneity that is necessary in segmentation analysis.
 
@@ -89,11 +89,16 @@ Figure 1: Demographic Profiles of respondants (N=60)
 
 ### 4.3 Overall DEI Domain Scores 
 
-We did Descriptive Statistics-Test to comapare scores of dirrent dimentions.
+We have averaged the scores of the five domains of DEI in order to get the general perception of DEI. This provided a brief general impression of what areas appear to be a bit stronger and what areas might require improvement.
 
-- Bias Reporting is the highest score -- 3.4, but the high SD shows this masks deep disagreement.
-- Inclusive Leadership score --3.39 is also higher.
-- The true overall risk is Representation,because the score is the lowest 3.15
+**Key observations:**
+
+- The Bias Reporting has the highest mean (3.40), however, the standard deviation is high indicating the workers are not in agreement on whether the reporting system is fair or trustful.
+- The value of Inclusive Leadership (3.39) is quite good, and it means that a significant number of employees are supported by their immediate supervisors.
+- The true overall risk is Representation,because the score is the lowest(3.15).
+It means that the employees feel that leadership fails to represent the diversity of the broader workforce.
+
+These scores assist us in knowing the areas in which the organisation is performing excellently and where DEI structural challenges still may be.
 
 Table 1. Overall DEI Domain Scores
 
@@ -111,10 +116,11 @@ Table 1. Overall DEI Domain Scores
 
 ### 4.4 DEI Differences Across Employment Levels  
 
-**The Equity Gap Insight:**
-- The largest disparity is a 1.01-point gap in Inclusive Leadership perception between staff and executives.
-- Executives score themselves and their environment lowest (2.74 in Leadership).
-- Staff (ICs) are surprisingly the most positive group.
+Comparison of domain scores by job level can be used to draw differences in how workers in various jobs feel that they are included in the workplace.
+
+**The Equity Gap Insights:**
+
+DEI was always rated lowest by the executives, particularly in Inclusive Leadership (2.74).This is not common practice since DEI scores have a tendency of rising with the seniority but this time around the executives appear to be more judgmental.DEI is rated by managers and senior managers/directors as the highest in nearly all areas with the score of around 3.3-3.5. Mid-range ratings were observed into individuals. This indicates that they do not have a considerably negative or strongly positive attitude toward DEI.The significance of this experience gap is that it demonstrates that there is a difference in perceptions of DEI in the organisational hierarchy.
 
 #### DEI Scores by Employment Level**
 ![Employment Level](images/Employment_Level.png)
@@ -123,6 +129,7 @@ Figure 2:DEI_Perception_by_Employment_Level
 ---
 
 ### 4.5 Strongest and Weakest Perceived DEI Items 
+Individual survey items can also demonstrate which strengths or pains domain averages might be masking.
 
 Table-2:Highest Risk/Streangth Area 
 
@@ -131,11 +138,15 @@ Table-2:Highest Risk/Streangth Area
 | **Lowest-scoring:** Diverse leadership rep.| 2.77 |
 | **Highest-scoring:** Manager accessibility | 3.56 |
 
-**Insights:**Employees feel their managers are approachable, but do not see sufficient diversity in leadership roles.
+**Key Insights:**
+
+The lack of diversity in the leadership position is observed among employees, which is directly connected with the low "Representation" domain.Employees feel their managers are approachable, but do not see sufficient diversity in leadership roles.
 
 ---
 
 ### 4.6 Majority vs Underrepresented Groups (URG)
+
+The comparison of the experiences of the majority and URG respondents aids in comprehending whether the inclusion is constant among identities.Unexpectedly, URG respondents have a better score in all areas in this dataset. This could imply that majority groups are not as satisfied with the work of DEI or URGs are satisfied that actions of DEI have changed their world.
 
 #### DEI Scores: Majority vs URG**
 ![URG Comparison](images/URG_group.png)
@@ -152,11 +163,17 @@ Table-3:IDENTITY EQUITY GAP
 | Bias Reporting    |   3.16   | 3.49 |
 | Visibility        |   3.04   | 3.36 |
 
-**Insights**: URG respondents consistently score Higher across all domains.
+**Insights**: In contrast to other organisations, in which URGs report lower inclusion rates, here URGs seem slightly more favourable, which might indicate that these groups are specifically benefiting with DEI initiatives.
 
 ---
 
 ### 4.7 DEI Differences by Disability Status
+
+Employees who stated that they had a disability scored significantly lower on DEI than other categories. This means that this would be one of the areas where the organisation might require to make a corrective action.
+
+**Main points:**
+- Disability group had the lowest score in all the five domains.
+- The Prefer not to say group registered surprisingly high which could also be an indication of any issues of confidentiality with disclosure.
 
 #### DEI Scores by Disability Status**
 ![Disability status](images/Disability_Status.png)
@@ -172,11 +189,6 @@ Table-4:Segmentation by Disability Status
 | Inclu.Leadership |     3.56      |     2.70   |      3.87         |
 | Bias Reporting   |     3.35      |     2.53   |      3.46         |
 | Visibility       |     3.38      |     2.87   |      3.87         |
-
-
-**The Equity Gap Insight:**
-- Employees identifying with a disability score 0.91 points lower on their overall DEI experience than their peers.
-- **Systemic Failure:** This gap is statistically significant (p-value = 0.0241).
 
 ---
 
