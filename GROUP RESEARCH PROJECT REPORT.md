@@ -348,7 +348,17 @@ The current data establishes a crucial baseline for measuring future progress. T
 
 ## References 
 
-Kline, R.B. (2015) Principles and Practice of Structural Equation Modeling. 4th edn. New York: Guilford Press.
+## References 
+
+* HBR (2022) DEI Initiatives Are Futile Without Accountability. Available at: https://hbr.org/2022/02/dei-initiatives-are-futile-without-accountability (Accessed: 3 December 2025).
+* HBR (2019) Survey: What Diversity and Inclusion Policies Do Employees Actually Want. Available at: https://hbr.org/2019/02/survey-what-diversity-and-inclusion-policies-do-employees-actually-want (Accessed: 3 December 2025).
+* HBR (2023) What Makes an Inclusive Leader. Available at: https://hbr.org/2023/09/what-makes-an-inclusive-leader (Accessed: 3 December 2025).
+* Business Disability Forum (n.d.) Why recruiting disabled people matters – The benefits of a diverse workforce. Available at: https://businessdisabilityforum.org.uk/resource/recruitment-toolkit/why-recruiting-disabled-people-matters-the-benefits-of-a-diverse-workforce/ (Accessed: 3 December 2025).
+* Harvard Business Publishing (2020) The Three A’s of Inclusion: Awareness, Authenticity, and Accountability. Available at: https://www.harvardbusiness.org/wp-content/uploads/2020/07/The-Three-A-s-of-Inclusion-Awareness-Authenticity-Accountability.pdf (Accessed: 3 December 2025).
+* McKinsey & Company (n.d.) The Missing Billion: Lack of disability data impedes healthcare equity. Available at: https://www.mckinsey.com/mhi/our-insights/the-missing-billion-lack-of-disability-data-impedes-healthcare-equity (Accessed: 3 December 2025).
+* PsycNET/APA (2024) [The role of leadership in shaping inclusion and performance]. Available at: https://psycnet.apa.org/record/2024-62774-001 (Accessed: 3 December 2025).
+* Stoddard, D. (n.d.) Psychological Safety: The Key to Unlocking the Benefits of DEI. Available at: https://www.damonstoddard.com/psychological-safety-the-key-to-unlocking-the-benefits-of-dei/ (Accessed: 3 December 2025).
+* Medium/Bloom Consulting (n.d.) Centering our multiplicity and relationships: rethinking DEI through an Ubuntu lens. Available at: https://medium.com/bloom-consulting/centering-our-multiplicity-and-relationships-rethinking-dei-through-an-ubuntu-lens-e502f050e329 (Accessed: 3 December 2025).
 
 ... 
 
