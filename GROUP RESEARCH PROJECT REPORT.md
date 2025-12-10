@@ -26,11 +26,15 @@ An organized online survey has been designed that had:
 
 **Five composite domains** of DEI, which are calculated using several Likert-scale items:
 
-- Representation
-- Psychological Safety
-- Inclusive Leadership
-- Bias Reporting & Accountability
-- Visibility of Initiatives
+- **Representation:**It is vital to have a diversity of people in all levels and not only in the demographics but also in thinking, background, and experience and this helps create diverse opinions.
+
+- **Psychological Safety**This is to establish an atmosphere in which individuals feel secure to express their own views. Offer their thought, confess their mistakes without embarrassment, which is a crucial part of inclusion.
+
+- **Inclusive Leadership**Leaders that show curiosity, courage, and conscientiousness to appreciate individuality, foster a sense of belonging, and advance the organizational DEI aims, sometimes by actively listening and making fair decisions.
+
+- **Bias Reporting & Accountability**It is necessary to retrieve a confidential, open system of reporting unfair treatment or bias, and have the concerns taken seriously and addressed fairly.Holding leaders and employees accountable to DEI commitments by having quantifiable goals, performance metrics, and repercussions of inaction or discriminatory action or behavior.
+
+- **Visibility of Initiatives**Coming out publicly to report on DEI activities, gains, and statistics (such as representation rates) to create trust and demonstrate organizational true involvement.
 
 Responses were measured using a 1-5 Likert scale (1 = strongly disagree, 5 = strongly agree).
 
