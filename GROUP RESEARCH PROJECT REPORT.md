@@ -26,7 +26,7 @@ An organized online survey has been designed that had:
 
 **Five composite domains** of DEI, which are calculated using several Likert-scale items:
 
-- **Representation:**It is vital to have a diversity of people in all levels and not only in the demographics but also in thinking, background, and experience and this helps create diverse opinions.
+- **Representation**It is vital to have a diversity of people in all levels and not only in the demographics but also in thinking, background, and experience and this helps create diverse opinions.
 
 - **Psychological Safety**This is to establish an atmosphere in which individuals feel secure to express their own views. Offer their thought, confess their mistakes without embarrassment, which is a crucial part of inclusion.
 
