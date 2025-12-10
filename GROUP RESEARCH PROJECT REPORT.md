@@ -600,5 +600,15 @@ plt.show()
 
 ### **Appendix E — GitHub Evidence**
 
+#### E1. Branching Workflow
+![GitHub Branches](images/Github_Branches.png)
 
+#### E2. Pull Requests and Code Review
+![Pull Requests](images/Github_pull-Request.png)
+
+#### E3. Commit History
+![Commit History](images/Github_commits.png)
+
+#### E4. Issue Tracking
+![GitHub Issues](images/Github_Issues.png)
 
