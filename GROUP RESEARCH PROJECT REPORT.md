@@ -438,10 +438,167 @@ The primary challenge facing the organization is not a deficit in awareness of D
 
 **End of Appendix A**
 
+### Appendix B — Survey Form Layout (Optional)
 
-### **Appendix B — Data Visualisations**
+Below are screenshots illustrating the structure of the Google Forms interface used to collect responses.
+
+![Survey Screenshot 1](images/Quesn-1.png)  
+![Survey Screenshot 2](images/Questionnair-2.png)
+
+---
+
+### **Appendix C — Data Visualisations**
 
 ![Demographics](images/Demographic_Profile.png)
 ![Employment Level DEI Scores](images/Employment_Level.png)
 ![Majority vs URG Comparison](images/URG_group.png)
 ![Disability Segmentation](images/Disability_Status.png)
+
+---
+
+### Appendix D — Python Code Snippets
+
+```python
+# 1. Importing libraries and loading the dataset
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+plt.rcParams["figure.figsize"] = (6, 4)
+plt.rcParams["axes.grid"] = True
+
+df = pd.read_excel("Workplace Diversity, Equity & Inclusion (Responses).xlsx")
+df.head()
+
+# 2. Grouping survey items into DEI dimensions
+
+# Representation
+rep_cols = [
+    "My team includes employees from diverse demographic backgrounds.",
+    "Leadership positions are held by individuals from diverse demographic backgrounds."
+]
+
+# Equity & Fairness
+equity_cols = [
+    "Job openings and promotions are communicated equally to all employees.",
+    "Employees with similar performance receive equal opportunities for advancement.",
+    "My workload expectations are consistent with those of my peers in similar roles.",
+    "My manager applies performance criteria consistently across team members.",
+]
+
+# Psychological Safety
+psych_cols = [
+    "I can express work-related opinions without negative consequences.",
+    "I can admit mistakes without negative consequences for my performance evaluation.",
+    "Disagreements in my team are handled respectfully."
+]
+
+# Inclusive Leadership
+lead_cols = [
+    "My manager provides equal access to information and resources.",
+    "My manager seeks input from employees before implementing team-level changes. "
+]
+
+# Bias Reporting
+report_cols = [
+    "I know the formal process for reporting bias or discrimination.",
+    "The organization provides clear information on how reported cases are handled.",
+    "Employees who report bias are protected from retaliation."
+]
+
+# DEI Visibility & Integration
+vis_cols = [
+    "The organization communicates DEI objectives through internal channels.",
+    "DEI training or resources are available to all employees.",
+    "DEI initiatives are integrated into regular business operations (e.g., hiring, performance reviews).",
+    "Employees are informed about progress toward DEI goals.",
+    "I understand how DEI contributes to the organization’s performance objectives."
+]
+
+# 2. Grouping survey items into DEI dimensions
+
+# Representation
+rep_cols = [
+    "My team includes employees from diverse demographic backgrounds.",
+    "Leadership positions are held by individuals from diverse demographic backgrounds."
+]
+
+# Equity & Fairness
+equity_cols = [
+    "Job openings and promotions are communicated equally to all employees.",
+    "Employees with similar performance receive equal opportunities for advancement.",
+    "My workload expectations are consistent with those of my peers in similar roles.",
+    "My manager applies performance criteria consistently across team members.",
+]
+
+# Psychological Safety
+psych_cols = [
+    "I can express work-related opinions without negative consequences.",
+    "I can admit mistakes without negative consequences for my performance evaluation.",
+    "Disagreements in my team are handled respectfully."
+]
+
+# Inclusive Leadership
+lead_cols = [
+    "My manager provides equal access to information and resources.",
+    "My manager seeks input from employees before implementing team-level changes. "
+]
+
+# Bias Reporting
+report_cols = [
+    "I know the formal process for reporting bias or discrimination.",
+    "The organization provides clear information on how reported cases are handled.",
+    "Employees who report bias are protected from retaliation."
+]
+
+# DEI Visibility & Integration
+vis_cols = [
+    "The organization communicates DEI objectives through internal channels.",
+    "DEI training or resources are available to all employees.",
+    "DEI initiatives are integrated into regular business operations (e.g., hiring, performance reviews).",
+    "Employees are informed about progress toward DEI goals.",
+    "I understand how DEI contributes to the organization’s performance objectives."
+]
+
+# 3. Calculating average scores for each DEI dimension
+
+dims = {
+    "Representation": df[rep_cols].mean().mean(),
+    "Equity": df[equity_cols].mean().mean(),
+    "Psychological safety": df[psych_cols].mean().mean(),
+    "Leadership": df[lead_cols].mean().mean(),
+    "Reporting": df[report_cols].mean().mean(),
+    "DEI visibility": df[vis_cols].mean().mean()
+}
+
+pd.Series(dims).round(2)
+
+# 4. Example visualisation – DEI scores by dimension (radar chart)
+
+labels = list(dims.keys())
+values = list(dims.values())
+
+# close the circle
+values += values[:1]
+angles = np.linspace(0, 2*np.pi, len(labels), endpoint=False).tolist()
+angles += angles[:1]
+
+fig = plt.figure(figsize=(6, 6))
+ax = fig.add_subplot(111, polar=True)
+
+ax.plot(angles, values, linewidth=2)
+ax.fill(angles, values, alpha=0.25)
+
+ax.set_xticks(angles[:-1])
+ax.set_xticklabels(labels)
+ax.set_ylim(1, 5)
+ax.set_title("Average scores by DEI dimension (1–5 scale)")
+
+plt.show()
+
+**End of Appendix D**
+
+### **Appendix E — GitHub Evidence**
+
+
+
