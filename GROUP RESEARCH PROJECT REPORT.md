@@ -325,6 +325,26 @@ The primary challenge facing the organization is not a deficit in awareness of D
 
 
 ---
+##7. Conclusion
+
+The research successfully utilized statistical validation to move beyond anecdotal evidence and confirm two major systemic risk areas: a profound, validated equity crisis concerning employees with disabilities and a critical **disconnect in leadership execution**. The current data establishes a crucial baseline for measuring future progress.
+
+### Final Diagnosis and Key Priorities
+
+#### Systemic Failure Confirmed 
+The most critical validated failure is the profound **0.91-point disparity** in the DEI experience reported by employees identifying with a disability. This gap is statistically significant (p < 0.05), establishing an urgent priority for mandatory accessibility and inclusion reform.
+
+#### Top-Down Disconnect 
+A secondary but critical systemic flaw is the **1.01-point perceptual gap** in Inclusive Leadership between staff and executives. This issue is rooted in an execution failure at the managerial level, evidenced by managers being the least informed group on policy visibility.
+
+### The Path Forward
+The current data establishes a crucial baseline for measuring future progress. To effectively address the confirmed failures, the organization must prioritize targeted interventions:
+
+* Prioritize the validated equity crisis (disability status gap).
+* Address the top-down disconnect (Leadership/Managerial Gaps).
+* **Scale the Research:** Initiate a full-scale validation survey across the client population in the next 6-12 months to achieve statistical certainty and measure the direct impact of policy reforms.
+
+
 
 ## References 
 
