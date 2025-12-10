@@ -113,12 +113,6 @@ Respondent profiles we get:
 
 ---
 
-### 3.3 Data Handling and Preparation
-
-In order to be accurate and more reliable in the analysis process, standard data handling methods were used and applied on the responses of the survey. It was checked that all the entries in the dataset were complete, consistent and ina a format that would be nalyzed automatically. Simple assessments were conducted in order to determine the presence of any repeated answers, lack of answers, and demographical labels anomalies. Variable names (example.. Q_Represent_Leadership, Q_Bias_Reporting) were standardised and made easier to read, as well as compatible with Python. Following recommended data-cleaning steps helps improve the quality and trustworthiness of quantitative analysis (Kline, 2015). Every step of the analysis was recorded to enhance transparency and reproducibility when working in the group.
-
----
-
 ### 4. Results & Data Analysis
 
 ### 4.1 Data Analysis
@@ -352,7 +346,7 @@ The current data establishes a crucial baseline for measuring future progress. T
 * **Scale the Research:** Initiate a full-scale validation survey across the client population in the next 6-12 months to achieve statistical certainty and measure the direct impact of policy reforms.
 
 
-## 8. References 
+## References 
 
 * HBR (2022) DEI Initiatives Are Futile Without Accountability. Available at: https://hbr.org/2022/02/dei-initiatives-are-futile-without-accountability (Accessed: 3 December 2025).
 * HBR (2019) Survey: What Diversity and Inclusion Policies Do Employees Actually Want. Available at: https://hbr.org/2019/02/survey-what-diversity-and-inclusion-policies-do-employees-actually-want (Accessed: 3 December 2025).
@@ -366,108 +360,4 @@ The current data establishes a crucial baseline for measuring future progress. T
 
 ... 
 
-## 9. Appendix
-
-### **Appendix A — Survey Questionnaire**
-
-**Title:** Workplace Diversity, Equity & Inclusion Assessment  
-**Scale for DEI Items:**  
-1 = Strongly Disagree  
-2 = Disagree  
-3 = Neutral  
-4 = Agree  
-5 = Strongly Agree  
-
----
-
-#### **Section 1 — Demographic Questions**
-
-1. **Age Group**
-   - Under 25  
-   - 25–34  
-   - 35–44  
-   - 45–54  
-   - 55–64  
-   - Above 65  
-   - Prefer not to say  
-
-2. **Gender Identity**
-   - Woman  
-   - Man  
-   - Non-binary / gender-diverse  
-   - Prefer not to say  
-
-3. **Racial or Ethnic Background**
-   - White  
-   - Black or African descent  
-   - Asian  
-   - Middle Eastern or North African  
-   - Hispanic / Latinx  
-   - Mixed or multiple backgrounds  
-   - Prefer not to say  
-
-4. **Disability Status**
-   - I identify as a person with a disability  
-   - I do not identify as a person with a disability  
-   - Prefer not to say  
-
-5. **Length of Time at the Organisation**
-   - Less than 1 year  
-   - 1–3 years  
-   - 3–5 years  
-   - More than 5 years  
-
-6. **Employment Level**
-   - Individual contributor  
-   - Manager (people management responsibilities)  
-   - Senior manager / director  
-   - Executive  
-   - Prefer not to say  
-
----
-
-#### **Section 2 — DEI Perceptions (Likert-Scale Items)**  
-*(1 = Strongly Disagree → 5 = Strongly Agree)*
-
-##### **Representation**
-7. My team includes employees from diverse demographic backgrounds.  
-8. Leadership positions are held by individuals from diverse demographic backgrounds.  
-
-##### **Equity in Promotions & Opportunities**
-9. Job openings and promotions are communicated equally to all employees.  
-10. Employees with similar performance receive equal opportunities for advancement.  
-11. My workload expectations are consistent with those of my peers in similar roles.  
-
-##### **Psychological Safety**
-12. I can express work-related opinions without negative consequences.  
-13. I can admit mistakes without negative consequences for my performance evaluation.  
-14. Disagreements in my team are handled respectfully.  
-
-##### **Inclusive Leadership**
-15. My manager applies performance criteria consistently across team members.  
-16. My manager provides equal access to information and resources.  
-17. My manager seeks input from employees before implementing team-level changes.  
-
-##### **Bias Reporting & Accountability**
-18. I know the formal process for reporting bias or discrimination.  
-19. The organisation provides clear information on how reported cases are handled.  
-20. Employees who report bias are protected from retaliation.  
-
-##### **Visibility of DEI Initiatives**
-21. The organisation communicates DEI objectives through internal channels.  
-22. DEI training or resources are available to all employees.  
-23. DEI initiatives are integrated into regular business operations (e.g., hiring, performance reviews).  
-24. Employees are informed about progress toward DEI goals.  
-25. I understand how DEI contributes to the organisation’s performance objectives.  
-
----
-
-**End of Appendix A**
-
-
-## Appendix B — Data Visualisations
-
-![Demographics](images/Demographic_Profile.png)
-![Employment Level DEI Scores](images/Employment_Level.png)
-![Majority vs URG Comparison](images/Urg_group.png)
-![Disability Segmentation](images/Disability_Status.png)
+## Appendix
