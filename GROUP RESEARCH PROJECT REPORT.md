@@ -10,7 +10,7 @@
 
 We have retained a complete set of raw data, including questionnaires (papers completed by hand or record downloaded from the online survey platform), recordings, and/or transcripts of interviews, secondary data, etc., as well as data analysis files and documents. 
 
-1. Executive Summary
+## 1. Executive Summary
 
 ## Overview 
 
@@ -44,7 +44,7 @@ The **Representation** domain has the lowest overall score (Mean: 3.15), indicat
 
 
 
-2. Introduction
+## 2. Introduction
 
 This research is focused on a quantitative analysis of employee perceptions concerning **Diversity, Equity & Inclusion (DEI)** within client organizations of EquiSphere. Our main goal is to define the true equity gap and pinpoint high-risk areas that require immediate, evidence-based strategy and action.
 
@@ -258,8 +258,36 @@ Correlation between Psychological Safety and Bias Reporting: 0.78
 
 ---
 
-5.  Discussion
-... 
+## 5.  Discussion
+
+This research successfully identified and validated critical equity gaps within the organization by assessing employee perceptions across five core DEI domains using preliminary pilot data (N=60). Our findings reveal that the organization's DEI challenges stem less from a lack of awareness and more from issues of execution and accountability.
+
+
+### Synthesis of Key Findings
+
+#### 1. The Validated Equity Crisis (Disability Status)
+The most profound and statistically significant finding is the deep disparity in experience based on disability status. Employees identifying with a disability report an overall DEI experience 0.91 points lower than their peers. This systemic failure was confirmed with a high degree of certainty (p-value = 0.0241). This gap confirms a critical need for immediate reform of accessibility and inclusion policies. The finding underscores the importance of disability inclusion, as research notes the benefits of a diverse workforce and highlights the existing lack of disability data.
+
+#### 2. The Leadership and Execution Disconnect
+A major point of failure lies in the leadership structure. The largest perceptual gap found was a 1.01-point disparity in Inclusive Leadership between staff and executives.
+
+* **Executive Perception:** Executives scored themselves and their environment lowest (2.74) in Inclusive Leadership. This suggests a crisis in managerial support or self-awareness at the top, which impacts the overall perception of the environment.
+* **Managerial Failure:** This disconnect is compounded by the finding that managers (those responsible for people management) have the lowest score for the Visibility of Initiatives. This managerial communication gap proves that DEI initiatives "break down at the managerial level".
+* **Implication:** This requires a pivot from passive awareness to active managerial integration, linking accountability metrics to performance reviews, a strategy supported by the literature emphasizing that DEI initiatives are futile without accountability. The role of leadership is consistently highlighted in shaping inclusion and performance.
+
+#### 3. Core Risk in Representation
+The domain of Representation received the lowest overall mean score (3.15). This indicates a broad perception that diversity is not adequately reflected, especially in leadership.
+
+
+### Critical Assessment and Limitations
+
+The findings provide a clear and statistically validated diagnosis for strategic intervention. However, the study is subject to several limitations:
+
+* **Pilot Data Limitation:** The most significant limitation is the small sample size (N=60). While T-tests were used for validation , the small sample restricts the statistical certainty and generalizability required for enterprise-wide actions.
+* **Sample Skew:** The data is heavily skewed toward Individual Contributors (48% of responses) and early-career talent (skewed toward under 34 age groups). Our findings, therefore, strongly reflect the on-the-ground, daily experience and the retention risk of newer workforce segments.
+* **Actionable Next Step:** To achieve statistical certainty and reliably measure the impact of the proposed policy reforms, the research must be scaled to a full-scale validation survey across the client population in the next 6-12 months.
+
+
 
 ---
 
