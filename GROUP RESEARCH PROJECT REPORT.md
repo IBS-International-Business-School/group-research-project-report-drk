@@ -238,7 +238,22 @@ Regular progress updates
 Success stories and role models  
 DEI dashboards accessible to employees  
 
-These interventions align with global best practices and directly target the gaps observed in the data.
+### Priority 6 - Embed DEI into the Leader Operating Systems  
+Beyond the traditional training programs and key performance indicators (KPIs) that continue in modern corporate practice, a harder approach requires leaders to bake their commitment to diversity, equity, and inclusion (DEI) efforts directly into the fibres of team-level operating plans. This integration should take shape in form of quarterly DEI check-ins within leadership meetings, and also structured inclusion audits driven by managers. Case studies from Microsoft and Deloitte have shown that "Inclusive Leadership Scorecards" provide an effective means of capturing behaviours such as decision-securing fairness, equitable participation in meetings and judicious distribution of developmental opportunities. By implementing a similar model in-house, organisations make what is traditionally a nebulous soul-search about inclusion a quantifiable dimension that is subject to constant scrutiny.
+
+### Priority 7 - Build a Psychological Safety Scalable Framework  
+Reliance only on anonymous feedback mechanisms, although useful, is not enough to create a climate where individuals will feel free to be candid. A more hardy approach includes rituals in the form of "Red Flag/Green Flag" or "Fearless Feedback Minutes" at the end of team meetings. Google Insights Project Upon Pearson Insights Google's Project Aristotle gives empirical evidence of exactly how these micro-rituals significantly increase speaking-up behaviours. To complement these practices, managers should have diagnostic toolkits to identify psychological safety breakdowns along with HR business partners trained on the art of conflict mediation.
+
+### Priority 8 - Transcycle Bias Reporting With a Case Tracking System  
+To foster strong trust, organisations can integrate an equivalent system of case status tracking, similar to the HR ticketing systems used by leading multinational organisations. This system provides employees with real-time visibility - while strictly protecting confidentiality - into the jurisdiction of the reports that they make during the review process. Such transparency fights the fear that complaints are written off, which is a major trigger to disenchantment. Furthermore, release of remaining anonymous annual reporting trends such as total cases brought into report, percentage of resolution and median resolution times reinforces organisational credibility and accountability.
+
+### Priority 9 - Establish an Accessibility centre of Excellence  
+The statistical importance of the disability gap that has been shed light on by recent research points to the need for a specific Accessibility Centre of Excellence. This unit would be taking responsibility for: comprehensive accessibility audit, resolution of reasonable adjustments; development of inclusive design guidelines, disability etiquette training for managers. High-performing entities such as IBM and EY have institutionalised similar models and, as a result, accessibility is systematically integrated and not relegated to sporadic and ad hoc requests.
+
+### Priority 10 - Build a Dashboard of the DEI Insights Using Predictive Indicators  
+Visibility alone is not enough, however; data must be used to prevent potential inequities from arising. A central dashboard should contain predictive measures - such as early attrition-risk indicators for under-represented groups, parity in promotion rates, wellbeing measures and measures of departmental leadership inclusion. Automating this dashboard via Python scripts or business intelligence tools tends to create an accountability in real time equipping the leaders to proactively intervene and respond to asymmetry before it pops up.
+
+For this reason, these interventions align with global best practices and address specifically the gaps that we identified in the data.  
 
 ## 7. Reflection on Team Process (Agile + GitHub)
 
@@ -270,7 +285,13 @@ What worked: clear division of labour, steady progress
 What could improve: earlier testing of visualisations, more consistent documentation  
 What to keep: regular stand-ups, GitHub branching model  
 
-Overall, teamwork was balanced, communicative, and adaptive.
+While the Agile methodology brought the project a strong structure, the project highlighted the imperative of iterative collaboration within data-compacted studies. Our understanding developed very regularly as new discoveries or inconsistencies emerged and the Agile approach allowed the easy shifting of work to new tasks. For example, when we saw labels generally appeared to be incorrect about demographics, we opened up the reporting through a GitHub Issue, re-diverted responsibility and fixed it all in the same sprint - a true measure of the power of short feedback cycles.
+
+The use of GitHub brought increased transparency to our workflow committing and pull requests make each contribution traceable in order to create constructive peer review. This practice improved on the precision of our visualisations and interpretations. In addition, the project fostered psychological safety: team members felt comfortable about divulging impediments and about asking for help, similar to the dynamics that are found in actual Agile teams.
+
+During the retrospective we recognised the need for better documentation and naming, and were simultaneously distilling best practices going forward in the future. In sum, the experience is a validation that Agile principles operationalised in the GitHub are the basis for efficient and shared analytical efforts.
+
+Overall, the team work was balanced, communicative and adaptive - all of which is the kind of environment in which university students are able to grow together.
 
 ---
 
