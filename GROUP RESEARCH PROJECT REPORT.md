@@ -454,7 +454,7 @@ Below are screenshots illustrating the structure of the Google Forms interface u
 ![Pull Requests](images/Github_Pull_request.png)
 
 #### C3. Commit History
-![Commit History](images/Github_commits.png)
+![Commit History](images/Github_Commits.png)
 
 #### C4. Issue Tracking
 ![GitHub Issues](images/Github_Issues.png)
