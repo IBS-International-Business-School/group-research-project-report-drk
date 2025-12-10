@@ -5,6 +5,8 @@
 2. Churi Divyank Ramakant
 3. Donda Raj
 
+**Word-count : 2197 (Excluding Declaration, References and Appendix) 
+
 ## Declaration
 [ChatGPT 5.0] was used to [brainstorm themes and structure] for this group research project report on [topic]. Prompt: '...' No AI-generated text is included in the final submission. Accessed: [Date]. Available at: https://chat.openai.com/.
 
