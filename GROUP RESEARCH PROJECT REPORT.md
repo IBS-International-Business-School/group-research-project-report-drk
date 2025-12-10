@@ -15,7 +15,7 @@ We have retained a complete set of raw data, including questionnaires (papers co
 ### Overview 
 
 This research for EquiSphere assessed employee perceptions of **Diversity, Equity & Inclusion (DEI)** across five core domains to define the organizational **equity gap**. 
-It used a quantitative approach with $N=60$ employee responses and statistical validation (T-tests. 
+It used a quantitative approach with $N=60$ employee responses and statistical validation (T-tests).
 
 ### Key Findings 
 
