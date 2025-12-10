@@ -66,7 +66,7 @@ Our investigation focuses on assessing the current health of the organization ac
 
 ## 3. Methodology
 
-### 3.1 Survey Design
+### Survey Design
 
 An organized online survey has been designed that had:
 
@@ -86,25 +86,7 @@ An organized online survey has been designed that had:
 
 Responses were measured using a 1-5 Likert scale (1 = strongly disagree, 5 = strongly agree).
 
----
 
-### 3.2 Sampling and Data Collection
-
-Instrument we used: Google Forms containing 25 questionnaire.
-
-Sample size: N = 60 employees responses.
-
-Sampling procedure we did: Convenience sampling within in some multinational organisation.
-
-Timeline: Data was collected between 15th November to 1st December, 2025.
-
-Respondent profiles we get:
-
-- 43% aged between 25-34 years.
-- 43% are women, 35% of them are men, and 5% non-binary/gender-diverse.
-- 33% of underrepresented racial/ethnic groupings.
-- 17% who considered themselves having a disability.
-- Most of them were individual respondents (N=29) or people managers (N=18).
 
 ---
 
@@ -124,8 +106,6 @@ The analysis section utilized Python libraries like Pandas, NumPy, and Matplotli
 
 ### 4.2 Demographic Overview
 
-The analysis of perceptions about DEI was conducted before it made sense to understand who exactly participated in the survey.It was also a representative sample of employees of diverse age groups, gender, and tenure.
-
 **Age:** A big proportion (43%) was 25-34 years, which implies that we have many professionals in their early career in our sample.
 **Gender:** The majority of the respondents were females (26), and then there are males (21). Very few identified as non-binary or did not want to indicate.
 **Tenture:** A large percentage of the respondents had a tenure of 1-3 years in the organisation.
@@ -141,7 +121,7 @@ Figure 1: Demographic Profiles of respondants (N=60)
 
 ### 4.3 Overall DEI Domain Scores 
 
-We have averaged the scores of the five domains of DEI in order to get the general perception of DEI. This provided a brief general impression of what areas appear to be a bit stronger and what areas might require improvement.
+We averaged the scores of the five domains of DEI in order to get the general perception of DEI.
 
 **Key observations:**
 
@@ -149,7 +129,6 @@ We have averaged the scores of the five domains of DEI in order to get the gener
 - The true overall risk is Representation,because the score is the lowest(3.15).
 It means that the employees feel that leadership fails to represent the diversity of the broader workforce.
 
-These scores assist us in knowing the areas in which the organisation is performing excellently and where DEI structural challenges still may be.
 
 Table 1. Overall DEI Domain Scores
 
@@ -167,7 +146,6 @@ Table 1. Overall DEI Domain Scores
 
 ### 4.4 DEI Differences Across Employment Levels  
 
-Comparison of domain scores by job level can be used to draw differences in how workers in various jobs feel that they are included in the workplace.
 
 **The Equity Gap Insights:**
 
@@ -189,7 +167,6 @@ Table-2:Highest Risk/Streangth Area
 | **Lowest-scoring:** Diverse leadership rep.| 2.77 |
 | **Highest-scoring:** Manager accessibility | 3.56 |
 
-**Key Insights:**
 
 The lack of diversity in the leadership position is observed among employees, which is directly connected with the low "Representation" domain.Employees feel their managers are approachable, but do not see sufficient diversity in leadership roles.
 
@@ -270,7 +247,7 @@ The domain of Representation received the lowest overall mean score (3.15). This
 The findings provide a clear and statistically validated diagnosis for strategic intervention. However, the study is subject to several limitations:
 
 * **Pilot Data Limitation:** The most significant limitation is the small sample size (N=60). While T-tests were used for validation , the small sample restricts the statistical certainty and generalizability required for enterprise-wide actions.
-* **Sample Skew:** The data is heavily skewed toward Individual Contributors (48% of responses) and early-career talent (skewed toward under 34 age groups). Our findings, therefore, strongly reflect the on-the-ground, daily experience and the retention risk of newer workforce segments.
+* **Sample Skew:** The data is heavily skewed toward Individual Contributors (48% of responses) and early-career talent. Our findings, therefore, strongly reflect the on-the-ground, daily experience and the retention risk of newer workforce segments.
 * **Actionable Next Step:** To achieve statistical certainty and reliably measure the impact of the proposed policy reforms, the research must be scaled to a full-scale validation survey across the client population in the next 6-12 months.
 
 
@@ -285,7 +262,6 @@ The following strategic recommendations are prioritized for immediate implementa
 
 ### 1. Highest Priority: Addressing the Disability Equity Gap
 
-The **0.91-point disparity** in DEI experience for employees identifying with a disability is the organization's single greatest point of confirmed systemic failure (p < 0.05).
 
 | Recommendation | Action Plan | Strategic Rationale |
 | :--- | :--- | :--- |
@@ -293,7 +269,6 @@ The **0.91-point disparity** in DEI experience for employees identifying with a 
 
 ### 2. High Priority: Resolving the Leadership Disconnect
 
-The **1.01-point gap** in Inclusive Leadership perception and the low self-assessment scores among executives indicate a top-down failure in support and self-awareness.
 
 | Recommendation | Action Plan | Strategic Rationale |
 | :--- | :--- | :--- |
@@ -301,11 +276,10 @@ The **1.01-point gap** in Inclusive Leadership perception and the low self-asses
 
 ### 3. Immediate Priority: Fixing the Communication and Execution Failure
 
-The communication strategy is currently failing at the managerial level, with managers being the least informed group on initiatives. This creates a breakdown in day-to-day implementation.
 
 | Recommendation | Action Plan | Strategic Rationale |
 | :--- | :--- | :--- |
-| **Shift Focus to Active Managerial Integration** | Stop relying on passive awareness (general communications) and pivot to equipping frontline managers directly. **Mandate training** that focuses on *how* to use DEI resources and *what* to implement. | Addresses the managerial communication gap. Enables managers to effectively enforce accountability, which is crucial for execution. |
+| **Shift Focus to Active Managerial Integration** | Stop relying on passive awareness and pivot to equipping frontline managers directly. **Mandate training** that focuses on *how* to use DEI resources and *what* to implement. | Addresses the managerial communication gap. Enables managers to effectively enforce accountability. |
 
 ### Final Strategic Diagnosis
 
