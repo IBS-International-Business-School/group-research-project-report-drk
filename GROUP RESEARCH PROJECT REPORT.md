@@ -123,7 +123,14 @@ In order to be accurate and more reliable in the analysis process, standard data
 
 ### 4.1 Data Analysis
 
-To carry out the analysis section, we primarily worked with Python, in particular, Pandas, NumPy and Matplotlib.To get a rough idea of the way people responded we first had a glance at some basic descriptive statistics. Next we did the demographic breakdowns and then we saw how various groups (age, gender, etc) were represented in the survey. Then we compared the scores of the DEI domain by employment status, ethnicity, and disability status. To check the possibilities that dissimilar groups of people had significantly different experiences. We also determined what questions in the survey scored the highest and the lowest. From this we get idea of the best and the worst area in the DEI activities in the organisation.Finally, a basic correlation test was conducted to determine the extent to which psychological safety and bias reporting were related. Generally, the analysis has made us see the trend of the data in a better way.
+The analysis section utilized Python libraries like Pandas, NumPy, and Matplotlib. The process involved several steps:
+
+* **Descriptive Statistics:** Initial review of basic response patterns.
+* **Demographic Analysis:** Breakdown of responses by age, gender, and other groups to understand survey representation.
+* **Comparative Analysis:** Comparison of DEI domain scores based on employment status, ethnicity, and disability status to identify significant experiential differences between groups.
+* **Item Analysis:** Determining the highest and lowest scoring survey questions to pinpoint the best and worst organizational DEI areas.
+* **Correlation Testing:** A basic correlation test was performed to examine the relationship between psychological safety and bias reporting.
+
 
 ---
 
