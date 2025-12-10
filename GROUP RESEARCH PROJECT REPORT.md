@@ -445,7 +445,23 @@ Below are screenshots illustrating the structure of the Google Forms interface u
 
 ---
 
-### **Appendix C — Data Visualisations**
+### Appendix C — GitHub Evidence
+
+#### C1. Branching Workflow
+![GitHub Branches](images/Github_Branches.png)
+
+#### C2. Pull Requests and Code Review
+![Pull Requests](images/Github_Pull_request.png)
+
+#### C3. Commit History
+![Commit History](images/Github_commits.png)
+
+#### C4. Issue Tracking
+![GitHub Issues](images/Github_Issues.png)
+
+---
+
+### **Appendix D — Data Visualisations**
 
 ![Demographics](images/Demographic_Profile.png)
 ![Employment Level DEI Scores](images/Employment_Level.png)
@@ -454,19 +470,21 @@ Below are screenshots illustrating the structure of the Google Forms interface u
 
 ---
 
-### Appendix D — Python Code Snippets
+### Appendix E — Python Code Snippets
 
-# Importing libraries and loading the dataset
+```python
+# 1. Importing libraries and loading the dataset
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
 
 plt.rcParams["figure.figsize"] = (6, 4)
 plt.rcParams["axes.grid"] = True
 
 df = pd.read_excel("Workplace Diversity, Equity & Inclusion (Responses).xlsx")
 
-# Grouping survey items into DEI dimensions
+# 2. Grouping survey items into DEI dimensions
 
 rep_cols = [
     "My team includes employees from diverse demographic backgrounds.",
@@ -505,7 +523,7 @@ vis_cols = [
     "I understand how DEI contributes to the organization's performance objectives."
 ]
 
-# Calculating average scores
+# 3. Calculating average scores
 dims = {
     "Representation": df[rep_cols].mean().mean(),
     "Equity": df[equity_cols].mean().mean(),
@@ -515,7 +533,7 @@ dims = {
     "DEI visibility": df[vis_cols].mean().mean()
 }
 
-# Example visualisation – Radar chart
+# 4. Example visualisation – Radar chart
 labels = list(dims.keys())
 values = list(dims.values())
 values += values[:1]
@@ -523,7 +541,7 @@ values += values[:1]
 angles = np.linspace(0, 2*np.pi, len(labels), endpoint=False).tolist()
 angles += angles[:1]
 
-fig = plt.figure(figsize=(6,6))
+fig = plt.figure(figsize=(6, 6))
 ax = fig.add_subplot(111, polar=True)
 
 ax.plot(angles, values, linewidth=2)
@@ -538,18 +556,3 @@ plt.show()
 
 ...
 
-### Appendix E — GitHub Evidence
-
-#### D1. Branching Workflow
-![GitHub Branches](images/Github_Branches.png)
-
-#### D2. Pull Requests and Code Review
-![Pull Requests](images/Github_Pull_request.png)
-
-#### D3. Commit History
-![Commit History](images/Github_commits.png)
-
-#### D4. Issue Tracking
-![GitHub Issues](images/Github_Issues.png)
-
----
