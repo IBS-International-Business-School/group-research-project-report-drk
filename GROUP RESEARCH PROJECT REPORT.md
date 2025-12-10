@@ -293,86 +293,36 @@ The findings provide a clear and statistically validated diagnosis for strategic
 
 ## 6. Recommendations
 
-### Priority 1 — Strengthen Inclusive Leadership  
-Mandatory training on inclusive decision-making  
-Leadership performance KPIs tied to DEI metrics  
-Transparent criteria for promotion and talent pipelines  
+Based on the validated equity gaps and systemic failures identified in the preliminary pilot data (N=60), the following strategic recommendations are prioritized for immediate implementation to address the root causes of execution and accountability failures.
 
-### Priority 2 — Improve Psychological Safety Mechanisms  
-Train managers in open dialogue and constructive feedback  
-Introduce anonymous feedback channels  
-Encourage speak-up culture through regular forums  
+### 1. Highest Priority: Addressing the Disability Equity Gap
 
-### Priority 3 — Build Trust in Bias Reporting Systems  
-Communicate processes clearly and transparently  
-Provide case examples of resolved issues  
-Protect confidentiality rigorously  
+The **0.91-point disparity** in DEI experience for employees identifying with a disability is the organization's single greatest point of confirmed systemic failure (p < 0.05).
 
-### Priority 4 — Support Underrepresented and Disabled Employees  
-Targeted mentoring programmes  
-Accessibility audits  
-Employee Resource Groups (ERGs) for identity-based communities  
-Clear accommodation pathways  
+| Recommendation | Action Plan | Strategic Rationale |
+| :--- | :--- | :--- |
+| **Mandate Immediate Accessibility Audits** | Conduct comprehensive audits across all digital, physical, and procedural infrastructure. This includes reviewing hiring, training, and performance management processes for barriers. | Directly addresses the statistically validated equity crisis. This demonstrates commitment to inclusion and mitigates severe retention and legal risk. |
 
-### Priority 5 — Enhance Visibility of DEI Initiatives  
-Regular progress updates  
-Success stories and role models  
-DEI dashboards accessible to employees  
+### 2. High Priority: Resolving the Leadership Disconnect
 
-### Priority 6 - Embed DEI into the Leader Operating Systems  
-Beyond the traditional training programs and key performance indicators (KPIs) that continue in modern corporate practice, a harder approach requires leaders to bake their commitment to diversity, equity, and inclusion (DEI) efforts directly into the fibres of team-level operating plans. This integration should take shape in form of quarterly DEI check-ins within leadership meetings, and also structured inclusion audits driven by managers. Case studies from Microsoft and Deloitte have shown that "Inclusive Leadership Scorecards" provide an effective means of capturing behaviours such as decision-securing fairness, equitable participation in meetings and judicious distribution of developmental opportunities. By implementing a similar model in-house, organisations make what is traditionally a nebulous soul-search about inclusion a quantifiable dimension that is subject to constant scrutiny.
+The **1.01-point gap** in Inclusive Leadership perception and the low self-assessment scores among executives indicate a top-down failure in support and self-awareness.
 
-### Priority 7 - Build a Psychological Safety Scalable Framework  
-Reliance only on anonymous feedback mechanisms, although useful, is not enough to create a climate where individuals will feel free to be candid. A more hardy approach includes rituals in the form of "Red Flag/Green Flag" or "Fearless Feedback Minutes" at the end of team meetings. Google Insights Project Upon Pearson Insights Google's Project Aristotle gives empirical evidence of exactly how these micro-rituals significantly increase speaking-up behaviours. To complement these practices, managers should have diagnostic toolkits to identify psychological safety breakdowns along with HR business partners trained on the art of conflict mediation.
+| Recommendation | Action Plan | Strategic Rationale |
+| :--- | :--- | :--- |
+| **Implement Executive Coaching and Accountability Metrics** | Provide targeted coaching to executives and senior managers focused on inclusive leadership principles. **Link accountability for DEI outcomes directly to performance reviews and compensation**. | Ensures senior leadership receives the necessary support to lead effectively. Establishes accountability, which is essential for DEI success. |
 
-### Priority 8 - Transcycle Bias Reporting With a Case Tracking System  
-To foster strong trust, organisations can integrate an equivalent system of case status tracking, similar to the HR ticketing systems used by leading multinational organisations. This system provides employees with real-time visibility - while strictly protecting confidentiality - into the jurisdiction of the reports that they make during the review process. Such transparency fights the fear that complaints are written off, which is a major trigger to disenchantment. Furthermore, release of remaining anonymous annual reporting trends such as total cases brought into report, percentage of resolution and median resolution times reinforces organisational credibility and accountability.
+### 3. Immediate Priority: Fixing the Communication and Execution Failure
 
-### Priority 9 - Establish an Accessibility centre of Excellence  
-The statistical importance of the disability gap that has been shed light on by recent research points to the need for a specific Accessibility Centre of Excellence. This unit would be taking responsibility for: comprehensive accessibility audit, resolution of reasonable adjustments; development of inclusive design guidelines, disability etiquette training for managers. High-performing entities such as IBM and EY have institutionalised similar models and, as a result, accessibility is systematically integrated and not relegated to sporadic and ad hoc requests.
+The communication strategy is currently failing at the managerial level, with managers being the least informed group on initiatives. This creates a breakdown in day-to-day implementation.
 
-### Priority 10 - Build a Dashboard of the DEI Insights Using Predictive Indicators  
-Visibility alone is not enough, however; data must be used to prevent potential inequities from arising. A central dashboard should contain predictive measures - such as early attrition-risk indicators for under-represented groups, parity in promotion rates, wellbeing measures and measures of departmental leadership inclusion. Automating this dashboard via Python scripts or business intelligence tools tends to create an accountability in real time equipping the leaders to proactively intervene and respond to asymmetry before it pops up.
+| Recommendation | Action Plan | Strategic Rationale |
+| :--- | :--- | :--- |
+| **Shift Focus to Active Managerial Integration** | Stop relying on passive awareness (general communications) and pivot to equipping frontline managers directly. **Mandate training** that focuses on *how* to use DEI resources and *what* to implement. | Addresses the managerial communication gap. Enables managers to effectively enforce accountability, which is crucial for execution. |
 
-For this reason, these interventions align with global best practices and address specifically the gaps that we identified in the data.  
+### Final Strategic Diagnosis
 
-## 7. Reflection on Team Process (Agile + GitHub)
+The primary challenge facing the organization is not a deficit in awareness of DEI principles, but a critical failure in **execution and accountability**. Strategic action must prioritize the validated equity crisis (disability status gap) and the top-down disconnect (Leadership/Managerial Gaps).
 
-Our team implemented several Agile practices as required in the assignment brief:
-
-### Sprint Planning  
-We conducted an initial sprint planning meeting to define milestones:  
-Survey design  
-Data collection  
-Python analysis  
-Drafting report sections  
-Final integration and review  
-
-### Daily/Regular Stand-Ups  
-Short check-ins were held every 2–3 days to:  
-Review progress  
-Discuss blockers  
-Reassign tasks if needed  
-
-### GitHub Collaboration  
-We used branches for separate tasks (analysis, visuals, writing).  
-Pull requests ensured peer review of all contributions.  
-Issues were used to track tasks (e.g., “Fix visualisation labels”, “Add segmentation table”).  
-This aligns with the criteria for effective GitHub use (page 2 of assignment brief).  
-
-### Retrospective  
-At the end of the project, we held a retrospective to evaluate:  
-What worked: clear division of labour, steady progress  
-What could improve: earlier testing of visualisations, more consistent documentation  
-What to keep: regular stand-ups, GitHub branching model  
-
-While the Agile methodology brought the project a strong structure, the project highlighted the imperative of iterative collaboration within data-compacted studies. Our understanding developed very regularly as new discoveries or inconsistencies emerged and the Agile approach allowed the easy shifting of work to new tasks. For example, when we saw labels generally appeared to be incorrect about demographics, we opened up the reporting through a GitHub Issue, re-diverted responsibility and fixed it all in the same sprint - a true measure of the power of short feedback cycles.
-
-The use of GitHub brought increased transparency to our workflow committing and pull requests make each contribution traceable in order to create constructive peer review. This practice improved on the precision of our visualisations and interpretations. In addition, the project fostered psychological safety: team members felt comfortable about divulging impediments and about asking for help, similar to the dynamics that are found in actual Agile teams.
-
-During the retrospective we recognised the need for better documentation and naming, and were simultaneously distilling best practices going forward in the future. In sum, the experience is a validation that Agile principles operationalised in the GitHub are the basis for efficient and shared analytical efforts.
-
-Overall, the team work was balanced, communicative and adaptive - all of which is the kind of environment in which university students are able to grow together.
 
 ---
 
