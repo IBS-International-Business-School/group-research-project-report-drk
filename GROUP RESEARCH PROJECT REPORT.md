@@ -10,6 +10,15 @@
 
 We have retained a complete set of raw data, including questionnaires (papers completed by hand or record downloaded from the online survey platform), recordings, and/or transcripts of interviews, secondary data, etc., as well as data analysis files and documents. 
 
+---
+
+## GitHub Repository Link
+The complete project repository, including code, documentation, images, and collaboration evidence, is available at:
+
+🔗 https://github.com/IBS-International-Business-School/group-research-project-report-drk
+
+---
+
 ## 1. Executive Summary
 
 ### Overview 
