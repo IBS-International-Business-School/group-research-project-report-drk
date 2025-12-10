@@ -11,10 +11,63 @@
 We have retained a complete set of raw data, including questionnaires (papers completed by hand or record downloaded from the online survey platform), recordings, and/or transcripts of interviews, secondary data, etc., as well as data analysis files and documents. 
 
 1. Executive Summary
-...
+
+## Overview 
+
+This research for EquiSphere assessed employee perceptions of **Diversity, Equity & Inclusion (DEI)** across five core domains to define the organizational **equity gap**. 
+It used a quantitative approach with $N=60$ employee responses and statistical validation (T-tests. 
+
+## Key Findings 
+
+### 1. Critical Equity Gap 
+There is a profound, statistically significant **Equity Gap**. 
+* Employees with a disability score **0.91 points lower** on their overall DEI experience than their. 
+*This gap is statistically significant ($p$-value = 0.0241), confirming a systemic failure. 
+
+### 2. Leadership Disconnect 
+A major failure exists in execution and leadership perception.
+ * The largest gap is a **1.01-point disparity** in **Inclusive Leadership** perception between staff and executives. 
+* Executives rate their own leadership environment lowest (2.74), suggesting a crisis in managerial support or self-awareness at the top.
+* Managers are the **least informed** group on the **Visibility of Initiatives. 
+
+### 3. Core Risk Area 
+The **Representation** domain has the lowest overall score (Mean: 3.15), indicating a broad perception that diversity is not reflected, especially in leadership. 
+
+## Actionable Recommendations
+ | Priority | Focus Area | Recommended Action |
+| :--- | :--- | :--- |
+| **Highest** | Disability Gap | Mandate **immediate accessibility audits** to address the 0.91-point experience gap. |
+| **High** | Leadership Disconnect | Implement **executive coaching and link accountability metrics** to performance reviews. |
+| **Immediate**| Communication Failure | Shift from passive awareness to **active managerial integration** to ensure managers can enforce policies. |
+
+> **Conclusion:** The primary challenge is not awareness, but **execution and accountability**.
+
+
 
 2. Introduction
-...  
+
+This research is focused on a quantitative analysis of employee perceptions concerning **Diversity, Equity & Inclusion (DEI)** within client organizations of EquiSphere. Our main goal is to define the true equity gap and pinpoint high-risk areas that require immediate, evidence-based strategy and action.
+
+### Why DEI is Critical Now
+
+DEI is no longer just a trend; it's a strategic necessity for modern business. Organizations that fail to foster genuine inclusion face real consequences, including significant retention risk and decreased innovation. Effective DEI efforts depend on accountability, which is why it's crucial to move beyond simple awareness and accurately measure employee experiences. Identifying these disparities is the first step in addressing validated systemic failures, such as the confirmed negative experience gap for employees with disabilities.
+
+
+### Key Areas of Inquiry
+
+Our investigation focuses on assessing the current health of the organization across several critical dimensions of the employee experience:
+
+* **Systemic Reflection of Diversity:** We examine how successfully diverse backgrounds are reflected across the workforce, with particular attention paid to representation in leadership positions.
+* **Safety and Open Dialogue:** This assesses the level of psychological safety; the crucial belief that employees can speak up, admit mistakes, or express concerns without fear of negative consequences.
+* **Fairness in Management:** We evaluate Inclusive Leadership behaviors, focusing on managerial actions that ensure fairness and provide equitable access to growth opportunities.
+* **Trust in Justice:** This involves scrutinizing bias reporting and accountability to determine the perceived transparency and trustworthiness of the processes used to handle bias and protect employees from retaliation.
+* **Communication Effectiveness:** We determine the level of employee awareness regarding DEI programs, resources, and progress by measuring the visibility of initiatives.
+
+
+### Our Approach to Validation
+
+Our work began with gathering preliminary pilot data from N=60 employee responses on a standardized 5-point scale.To ensure our findings reflect genuine, systemic issues and not just random chance, we used statistical validation through independent samples T-tests. This methodology allows us to robustly confirm the existence of systemic differences (the true equity gaps), ensuring that our recommendations target the areas with the highest practical risk.
+
 
 ## 3. Methodology
 
