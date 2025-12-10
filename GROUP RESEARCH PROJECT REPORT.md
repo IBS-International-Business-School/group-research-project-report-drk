@@ -450,8 +450,8 @@ Below are screenshots illustrating the structure of the Google Forms interface u
 #### C1. Branching Workflow
 ![GitHub Branches](images/Github_Branches.png)
 
-#### C2. Pull Requests and Code Review
-![Pull Requests](images/Github_Pull_request.png)
+#### C2. Pull Requests 
+![Pull Requests](images/Github_Pull_Request.png)
 
 #### C3. Commit History
 ![Commit History](images/Github_Commits.png)
