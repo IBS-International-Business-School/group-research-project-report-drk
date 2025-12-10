@@ -325,7 +325,7 @@ The primary challenge facing the organization is not a deficit in awareness of D
 
 
 ---
-##7. Conclusion
+## 7. Conclusion
 
 The research successfully utilized statistical validation to move beyond anecdotal evidence and confirm two major systemic risk areas: a profound, validated equity crisis concerning employees with disabilities and a critical **disconnect in leadership execution**. The current data establishes a crucial baseline for measuring future progress.
 
