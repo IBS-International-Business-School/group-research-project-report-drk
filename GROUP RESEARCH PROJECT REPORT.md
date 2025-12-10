@@ -12,28 +12,28 @@ We have retained a complete set of raw data, including questionnaires (papers co
 
 ## 1. Executive Summary
 
-## Overview 
+### Overview 
 
 This research for EquiSphere assessed employee perceptions of **Diversity, Equity & Inclusion (DEI)** across five core domains to define the organizational **equity gap**. 
 It used a quantitative approach with $N=60$ employee responses and statistical validation (T-tests. 
 
-## Key Findings 
+### Key Findings 
 
-### 1. Critical Equity Gap 
+#### 1. Critical Equity Gap 
 There is a profound, statistically significant **Equity Gap**. 
 * Employees with a disability score **0.91 points lower** on their overall DEI experience than their. 
 *This gap is statistically significant ($p$-value = 0.0241), confirming a systemic failure. 
 
-### 2. Leadership Disconnect 
+#### 2. Leadership Disconnect 
 A major failure exists in execution and leadership perception.
  * The largest gap is a **1.01-point disparity** in **Inclusive Leadership** perception between staff and executives. 
 * Executives rate their own leadership environment lowest (2.74), suggesting a crisis in managerial support or self-awareness at the top.
 * Managers are the **least informed** group on the **Visibility of Initiatives. 
 
-### 3. Core Risk Area 
+#### 3. Core Risk Area 
 The **Representation** domain has the lowest overall score (Mean: 3.15), indicating a broad perception that diversity is not reflected, especially in leadership. 
 
-## Actionable Recommendations
+### Actionable Recommendations
  | Priority | Focus Area | Recommended Action |
 | :--- | :--- | :--- |
 | **Highest** | Disability Gap | Mandate **immediate accessibility audits** to address the 0.91-point experience gap. |
