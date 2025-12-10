@@ -48,7 +48,6 @@ The **Representation** domain has the lowest overall score (Mean: 3.15), indicat
 
 This research is focused on a quantitative analysis of employee perceptions concerning **Diversity, Equity & Inclusion (DEI)** within client organizations of EquiSphere. Our main goal is to define the true equity gap and pinpoint high-risk areas that require immediate, evidence-based strategy and action.
 
-### Why DEI is Critical Now
 
 DEI is no longer just a trend; it's a strategic necessity for modern business. Organizations that fail to foster genuine inclusion face real consequences, including significant retention risk and decreased innovation. Effective DEI efforts depend on accountability, which is why it's crucial to move beyond simple awareness and accurately measure employee experiences. Identifying these disparities is the first step in addressing validated systemic failures, such as the confirmed negative experience gap for employees with disabilities.
 
@@ -64,10 +63,6 @@ Our investigation focuses on assessing the current health of the organization ac
 * **Communication Effectiveness:** We determine the level of employee awareness regarding DEI programs, resources, and progress by measuring the visibility of initiatives.
 
 
-### Our Approach to Validation
-
-Our work began with gathering preliminary pilot data from N=60 employee responses on a standardized 5-point scale.To ensure our findings reflect genuine, systemic issues and not just random chance, we used statistical validation through independent samples T-tests. This methodology allows us to robustly confirm the existence of systemic differences (the true equity gaps), ensuring that our recommendations target the areas with the highest practical risk.
-
 
 ## 3. Methodology
 
@@ -81,7 +76,7 @@ An organized online survey has been designed that had:
 
 - **Representation**:It is vital to have a diversity of people in all levels and not only in the demographics but also in thinking, background, and experience and this helps create diverse opinions (HBR, 2019).
 
-- **Psychological Safety**:This is to establish an atmosphere in which individuals feel secure to express their own views. Offer their thought, confess their mistakes without fear of retaliation, which is a crucial part of inclusion (Stoddard, n.d.).
+- **Psychological Safety**:This is to establish an atmosphere in which individuals feel secure to express their own views. Offer their thought, confess their mistakes without fear of retaliation. (Stoddard, n.d.).
 
 - **Inclusive Leadership**:Leaders that show curiosity, courage, and conscientiousness to appreciate individuality, foster a sense of belonging, and advance the organizational DEI aims, sometimes by actively listening and making fair decisions (HBR, 2023).
 
@@ -123,7 +118,6 @@ The analysis section utilized Python libraries like Pandas, NumPy, and Matplotli
 * **Demographic Analysis:** Breakdown of responses by age, gender, and other groups to understand survey representation.
 * **Comparative Analysis:** Comparison of DEI domain scores based on employment status, ethnicity, and disability status to identify significant experiential differences between groups.
 * **Item Analysis:** Determining the highest and lowest scoring survey questions to pinpoint the best and worst organizational DEI areas.
-* **Correlation Testing:** A basic correlation test was performed to examine the relationship between psychological safety and bias reporting.
 
 
 ---
@@ -152,7 +146,6 @@ We have averaged the scores of the five domains of DEI in order to get the gener
 **Key observations:**
 
 - The Bias Reporting has the highest mean (3.40), however, the standard deviation is high indicating the workers are not in agreement on whether the reporting system is fair or trustful.
-- The value of Inclusive Leadership (3.39) is quite good, and it means that a significant number of employees are supported by their immediate supervisors.
 - The true overall risk is Representation,because the score is the lowest(3.15).
 It means that the employees feel that leadership fails to represent the diversity of the broader workforce.
 
@@ -178,7 +171,7 @@ Comparison of domain scores by job level can be used to draw differences in how 
 
 **The Equity Gap Insights:**
 
-DEI was always rated lowest by the executives, particularly in Inclusive Leadership (2.74).This is not common practice since DEI scores have a tendency of rising with the seniority but this time around the executives appear to be more judgmental.DEI is rated by managers and senior managers/directors as the highest in nearly all areas with the score of around 3.3-3.5. Mid-range ratings were observed into individuals. This indicates that they do not have a considerably negative or strongly positive attitude toward DEI.The significance of this experience gap is that it demonstrates that there is a difference in perceptions of DEI in the organisational hierarchy.
+DEI was always rated lowest by the executives, particularly in Inclusive Leadership (2.74).This is not common practice since DEI scores have a tendency of rising with the seniority but this time around the executives appear to be more judgmental.DEI is rated by managers and senior managers/directors as the highest in nearly all areas with the score of around 3.3-3.5. Mid-range ratings were observed into individuals. This indicates that they do not have a considerably negative or strongly positive attitude toward DEI. 
 
 #### DEI Scores by Employment Level**
 ![Employment Level](images/Employment_Level.png)
@@ -187,7 +180,7 @@ Figure 2:DEI_Perception_by_Employment_Level
 ---
 
 ### 4.5 Strongest and Weakest Perceived DEI Items 
-Individual survey items can also demonstrate which strengths or pains domain averages might be masking.
+
 
 Table-2:Highest Risk/Streangth Area 
 
@@ -247,14 +240,6 @@ Table-4:Segmentation by Disability Status
 | Inclu.Leadership |     3.56      |     2.70   |      3.87         |
 | Bias Reporting   |     3.35      |     2.53   |      3.46         |
 | Visibility       |     3.38      |     2.87   |      3.87         |
-
----
-
-### 4.8 Correlation Analysis
-
-Correlation between Psychological Safety and Bias Reporting: 0.78
-
-**Insight:** The strong positive correlation (R > 0.6) suggests these two issues are fundamentally linked.Employees who feel psychologically safe are far more likely to trust the reporting process.You cannot fix one without fixing the other.
 
 
 ---
