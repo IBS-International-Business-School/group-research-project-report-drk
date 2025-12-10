@@ -345,9 +345,6 @@ The current data establishes a crucial baseline for measuring future progress. T
 * **Scale the Research:** Initiate a full-scale validation survey across the client population in the next 6-12 months to achieve statistical certainty and measure the direct impact of policy reforms.
 
 
-
-## References 
-
 ## References 
 
 * HBR (2022) DEI Initiatives Are Futile Without Accountability. Available at: https://hbr.org/2022/02/dei-initiatives-are-futile-without-accountability (Accessed: 3 December 2025).
